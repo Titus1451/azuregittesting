@@ -1,5 +1,5 @@
 {
-	"name": "CoachesSink",
+	"name": "CoachesSource",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "CoachesHttp",

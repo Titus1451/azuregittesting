@@ -86,7 +86,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "CoachesSink",
+						"referenceName": "CoachesSource",
 						"type": "DatasetReference"
 					}
 				]
