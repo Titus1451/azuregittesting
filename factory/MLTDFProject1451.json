@@ -1,0 +1,9 @@
+{
+	"name": "MLTDFProject1451",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bdd1684a-3861-4129-a3f4-64ec151dae0a",
+		"tenantId": "91867822-7ea3-4d5d-978e-059bfcd25223"
+	}
+}
